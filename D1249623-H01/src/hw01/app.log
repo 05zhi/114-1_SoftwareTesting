@@ -1,0 +1,336 @@
+2025-10-04 08:45:47 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:45:47 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:45:47 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:45:47 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:46:32 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:46:32 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:46:32 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:46:32 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1002
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳已接單: O1002
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 外送員已取餐: O1002
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 訂單已送達: O1002
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1003
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 餐廳已接單: O1003
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 外送員已取餐: O1003
+2025-10-04 08:48:19 INFO  org.example.service.DeliveryService - 訂單已送達: O1003
+2025-10-04 08:48:19 INFO  Main - 所有訂單處理完成。
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1002
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳已接單: O1002
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 外送員已取餐: O1002
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 訂單已送達: O1002
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1003
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 餐廳已接單: O1003
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 外送員已取餐: O1003
+2025-10-04 08:52:03 INFO  org.example.service.DeliveryService - 訂單已送達: O1003
+2025-10-04 08:52:03 INFO  Main - 所有訂單處理完成。
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1002
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳已接單: O1002
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 外送員已取餐: O1002
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 訂單已送達: O1002
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1003
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 餐廳已接單: O1003
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 外送員已取餐: O1003
+2025-10-04 08:52:33 INFO  org.example.service.DeliveryService - 訂單已送達: O1003
+2025-10-04 08:52:33 INFO  Main - 所有訂單處理完成。
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1002
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳已接單: O1002
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 外送員已取餐: O1002
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 訂單已送達: O1002
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1003
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 餐廳已接單: O1003
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 外送員已取餐: O1003
+2025-10-04 08:52:58 INFO  org.example.service.DeliveryService - 訂單已送達: O1003
+2025-10-04 08:52:58 INFO  Main - 所有訂單處理完成。
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1001
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳 PizzaHut 與顧客距離 4.242640687119285 km，在合理範圍內
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳已接單: O1001
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 外送員已取餐: O1001
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 訂單已送達: O1001
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1002
+2025-10-04 08:54:27 WARN  Main - 業務例外: 餐廳 KFC 超出合理外送距離 (21.213203435596427)
+2025-10-04 08:54:27 ERROR org.example.service.DeliveryService - 取餐失敗: 訂單狀態錯誤，無法取餐
+org.example.exception.SystemException: 訂單狀態錯誤，無法取餐
+	at org.example.service.DeliveryService.pickupOrder(DeliveryService.java:41)
+	at Main.main(Main.java:31)
+2025-10-04 08:54:27 ERROR org.example.service.DeliveryService - 送餐失敗: 訂單尚未取餐，無法送達
+org.example.exception.SystemException: 訂單尚未取餐，無法送達
+	at org.example.service.DeliveryService.deliverOrder(DeliveryService.java:53)
+	at Main.main(Main.java:32)
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: O1003
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 8.06225774829855 km，在合理範圍內
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 餐廳已接單: O1003
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 外送員已取餐: O1003
+2025-10-04 08:54:27 INFO  org.example.service.DeliveryService - 訂單已送達: O1003
+2025-10-04 08:54:27 INFO  Main - 所有訂單處理完成。
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 4.242640687119285 km，在合理範圍內
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳已接單: 001
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 外送員已取餐: 001
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 訂單已送達: 001
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 08:55:55 WARN  Main - 業務例外: 餐廳 KFC 超出合理外送距離 (21.213203435596427)
+2025-10-04 08:55:55 ERROR org.example.service.DeliveryService - 取餐失敗: 訂單狀態錯誤，無法取餐
+org.example.exception.SystemException: 訂單狀態錯誤，無法取餐
+	at org.example.service.DeliveryService.pickupOrder(DeliveryService.java:41)
+	at Main.main(Main.java:31)
+2025-10-04 08:55:55 ERROR org.example.service.DeliveryService - 送餐失敗: 訂單尚未取餐，無法送達
+org.example.exception.SystemException: 訂單尚未取餐，無法送達
+	at org.example.service.DeliveryService.deliverOrder(DeliveryService.java:53)
+	at Main.main(Main.java:32)
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 8.06225774829855 km，在合理範圍內
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 餐廳已接單: 003
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 外送員已取餐: 003
+2025-10-04 08:55:55 INFO  org.example.service.DeliveryService - 訂單已送達: 003
+2025-10-04 08:55:55 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 4.242640687119285 km，在合理範圍內
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:02:56 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.213203435596427)
+2025-10-04 09:02:56 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:02:56 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 8.06225774829855 km，在合理範圍內
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:02:56 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:02:56 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 {:.1f} km，在合理範圍內
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:06:26 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:06:26 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:06:26 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 {:.1f} km，在合理範圍內
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:06:26 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:06:26 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 4.242640687119285 km，在合理範圍內
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:06:57 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:06:57 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:06:57 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 8.06225774829855 km，在合理範圍內
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:06:57 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:06:57 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 4.242640687119285 km，在合理範圍內
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:07:58 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:07:58 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:07:58 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 8.06225774829855 km，在合理範圍內
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:07:58 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:07:58 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客距離 4.2 km，在合理範圍內
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:08:22 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:08:22 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:08:22 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客距離 8.1 km，在合理範圍內
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:08:22 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:08:22 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 001
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 002
+2025-10-04 09:09:21 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:09:21 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:09:21 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 餐廳嘗試接單: 003
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 餐廳 Subway 與顧客 Walter 距離 8.1 km，在合理範圍內
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 ACCEPTED
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 PICKED_UP
+2025-10-04 09:09:21 INFO  org.example.service.DeliveryService - 訂單 003 狀態變更為 DELIVERED
+2025-10-04 09:09:21 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單
+2025-10-04 09:56:07 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:56:07 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:56:07 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:56:07 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003
+2025-10-04 09:56:07 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)
+2025-10-04 09:56:07 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:56:07 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:56:07 INFO  Main - 所有訂單處理完成。
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單
+2025-10-04 09:56:15 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)
+2025-10-04 09:56:15 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:56:15 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:56:15 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003
+2025-10-04 09:56:15 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)
+2025-10-04 09:56:15 WARN  org.example.service.DeliveryService - 取餐失敗: 訂單尚未被餐廳接單，無法取餐
+2025-10-04 09:56:15 WARN  org.example.service.DeliveryService - 送餐失敗: 訂單尚未被取餐，無法送達
+2025-10-04 09:56:15 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:03:59 WARN  Main - Business Exception: 餐廳 KFC 超出合理外送距離 (21.2 km)。
+2025-10-04 10:03:59 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:03:59 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:03:59 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003。
+2025-10-04 10:03:59 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:03:59 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:03:59 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:03:59 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 PICKED_UP。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:05:33 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:05:33 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:05:33 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:05:33 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003。
+2025-10-04 10:05:33 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:05:33 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:05:33 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:05:33 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 001 狀態變更為 PICKED_UP。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:06:54 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:06:54 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:06:54 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:06:54 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003。
+2025-10-04 10:06:54 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:06:54 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:06:54 WARN  org.example.service.DeliveryService - 訂單 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:06:54 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 001 狀態變更為 PICKED_UP。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:08:57 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:08:57 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:08:57 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:08:57 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003。
+2025-10-04 10:08:57 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:08:57 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。 取餐失敗。
+2025-10-04 10:08:57 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。 送餐失敗。
+2025-10-04 10:08:57 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳正在接單: 001。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 001 狀態變更為 PICKED_UP。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳正在接單: 002。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:09:46 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:09:46 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:09:46 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:09:46 INFO  org.example.service.DeliveryService - 餐廳正在接單: 003。
+2025-10-04 10:09:46 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:09:46 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:09:46 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:09:46 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 正在接受訂單 001。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 001 狀態變更為 PICKED_UP。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 KFC 正在接受訂單 002。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:10:54 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:10:54 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:10:54 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:10:54 INFO  org.example.service.DeliveryService - 餐廳 Subway 正在接受訂單 003。
+2025-10-04 10:10:54 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:10:54 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:10:54 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:10:54 INFO  Main - 所有訂單處理完成。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 正在接受訂單 001。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 營業中，可接單。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 McDonalds 與顧客 Andy 距離 4.2 km，在合理範圍內。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 ACCEPTED。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 001 狀態變更為 PICKED_UP。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 訂單 001 狀態變更為 DELIVERED。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 KFC 正在接受訂單 002。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 KFC 營業中，可接單。
+2025-10-04 10:33:51 WARN  Main - Business Exception: 餐廳 KFC 與顧客 Edward 距離 21.2 km 超出合理外送距離。
+2025-10-04 10:33:51 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:33:51 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:33:51 INFO  org.example.service.DeliveryService - 餐廳 Subway 正在接受訂單 003。
+2025-10-04 10:33:51 WARN  Main - Business Exception: 目前非 Subway 營業時間 (營業時間: 1000-2100，訂單時間: 2200)。
+2025-10-04 10:33:51 WARN  org.example.service.DeliveryService - 訂單尚未被餐廳接單，無法取餐。
+2025-10-04 10:33:51 WARN  org.example.service.DeliveryService - 訂單尚未被取餐，無法送達。
+2025-10-04 10:33:51 INFO  Main - 所有訂單處理完成。
